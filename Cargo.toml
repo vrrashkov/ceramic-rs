@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "http-client",
+    "did",
+    "stream-tile",
+    "preview"
+]
